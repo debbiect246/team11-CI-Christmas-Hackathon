@@ -238,7 +238,7 @@ Testing was also carried out using the following validators:
 
 [css and html validator](https://validator.w3.org/)
 
-[javascript validator](https://jshint.com/)
+[javascript validator ](https://jshint.com/)
 
 All validity tests were passed.
 
